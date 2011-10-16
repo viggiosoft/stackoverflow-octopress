@@ -1,0 +1,10 @@
+# To add the stackoverflow flair aside just add the aside in the list of default asides, as below:
+default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.html, asides/delicious.html, asides/pinboard.html, asides/stackoverflow.html]
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+# Stack Overlfow: add your user name and user id (the user id is visible in the url of your s.o. profile page)
+stackoverflow_user_name:
+stackoverflow_user_id:
