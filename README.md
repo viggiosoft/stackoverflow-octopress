@@ -14,4 +14,11 @@ loaded.
 The __stackoverflow.html__ file must be placed in the default asides location:
 /.themes/classic/source/\_includes/asides
 
+## INSTALLATION SCRIPT
 
+Not available at the moment. Octopress main repo developers are investingating for a common way to manage plugins. At the moment we wait for specs to be defined before
+creating the installer for this simple plugin.
+
+## LINKS
+
+[Octopress 3rd party plugins](https://github.com/imathis/octopress/wiki/3rd-party-plug-ins)
